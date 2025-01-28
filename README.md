@@ -21,3 +21,4 @@ rice dotfiles for laptop running Arch Linux with i3, polybar, rofi, etc.
 | launcher/applets | [here](https://github.com/adi1090x/rofi?tab=readme-ov-file) |
 
 ## Screenshots
+![screenshot 1](https://github.com/marcogiven/Dotfiles/screenshots/2025-01-28_15-27.png?raw=true)
